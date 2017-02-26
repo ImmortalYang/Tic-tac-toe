@@ -1,0 +1,8 @@
+C:\Temp\Ex-Drawing\Ex-Drawing\bin\Release\Ex-Drawing.exe.config
+C:\Temp\Ex-Drawing\Ex-Drawing\bin\Release\Ex-Drawing.exe
+C:\Temp\Ex-Drawing\Ex-Drawing\bin\Release\Ex-Drawing.pdb
+C:\Temp\Ex-Drawing\Ex-Drawing\obj\Release\Ex_Drawing.Form1.resources
+C:\Temp\Ex-Drawing\Ex-Drawing\obj\Release\Ex_Drawing.Properties.Resources.resources
+C:\Temp\Ex-Drawing\Ex-Drawing\obj\Release\Ex-Drawing.csproj.GenerateResource.Cache
+C:\Temp\Ex-Drawing\Ex-Drawing\obj\Release\Ex-Drawing.exe
+C:\Temp\Ex-Drawing\Ex-Drawing\obj\Release\Ex-Drawing.pdb
